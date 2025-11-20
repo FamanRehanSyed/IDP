@@ -1,5 +1,5 @@
 # IDP
-This repository contains the source code file along with the csv data set i have used to build the prototype for my inter-disciplinary project.
+This repository contains the source code file along with the link to the csv data set I have used to build the prototype for my inter-disciplinary project.
 
 The topic chosen for the Inter-Disciplinary project is : An AI Automated Personalized Itinerary Generator For Remote Places
 
